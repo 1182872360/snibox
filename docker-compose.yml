@@ -9,10 +9,10 @@ services:
       - "8080:80"
     environment:
       DB_NAME: "postgres"
-      DB_USER: "postgres"
+      DB_USER: "postgres.ywbaswvhrdnjdavgryvl"
       DB_PASS: "MVPwu1314.."
-      DB_HOST: "db.ywbaswvhrdnjdavgryvl.supabase.co"
-      DB_PORT: "5432"
+      DB_HOST: "aws-0-ap-southeast-1.pooler.supabase.com"
+      DB_PORT: "6543"
       FORCE_SSL: "false"
       SECRET_KEY_BASE: "MVPwu1314.."
       RAILS_ENV: "production"
