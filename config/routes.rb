@@ -30,4 +30,5 @@ Rails.application.routes.draw do
   get 'help', to: 'pages#help'
 
   root 'repository#index'
+  get 'health', to: 'health#check'
 end
