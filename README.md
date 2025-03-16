@@ -8,7 +8,7 @@ Snibox is a self-hosted snippet manager.
 Developed to collect and organize code snippets.
 Supports various programming languages, markdown, plain text. 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=snibox-app&type=docker&image=1182872360%2Fsnibox-app%3Alatest&instance_type=free&regions=was&instances_min=0&env%5BDB_HOST%5D=db.ywbaswvhrdnjdavgryvl.supabase.co&env%5BDB_NAME%5D=postgres&env%5BDB_PASS%5D=MVPwu1314..&env%5BDB_PORT%5D=5432&env%5BDB_USER%5D=postgres&env%5BFORCE_SSL%5D=false&env%5BRACK_ENV%5D=production&env%5BRAILS_ENV%5D=production&env%5BRAILS_SERVE_STATIC_FILES%5D=true&ports=80%3Bhttp%3B%2F&hc_protocol%5B80%5D=tcp&hc_grace_period%5B80%5D=5&hc_interval%5B80%5D=30&hc_restart_limit%5B80%5D=3&hc_timeout%5B80%5D=5&hc_path%5B80%5D=%2F&hc_method%5B80%5D=get)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=snibox-app&type=docker&image=1182872360%2Fsnibox-app%3Alatest&instance_type=free&regions=was&instances_min=0&env%5BDB_HOST%5D=&env%5BDB_NAME%5D=&env%5BDB_PASS%5D=&env%5BDB_PORT%5D=&env%5BDB_USER%5D=&env%5BFORCE_SSL%5D=false&env%5BRACK_ENV%5D=production&env%5BRAILS_ENV%5D=production&env%5BRAILS_SERVE_STATIC_FILES%5D=true&ports=80%3Bhttp%3B%2F&hc_protocol%5B80%5D=tcp&hc_grace_period%5B80%5D=5&hc_interval%5B80%5D=30&hc_restart_limit%5B80%5D=3&hc_timeout%5B80%5D=5&hc_path%5B80%5D=%2F&hc_method%5B80%5D=get)
 
 ## Table of Contents
 - [Demo](#demo)
